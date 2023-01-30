@@ -25,8 +25,8 @@ export default function Bulb(props: IBoxProps) {
         // @ts-ignore
         shadowRadius={10}
       />
-      <sphereBufferGeometry args={[0.2]} />
-      <meshPhongMaterial emissive="yellow" />
+      <sphereBufferGeometry args={[0.2, 100, 100]} />
+      <meshPhongMaterial emissive="white" />
     </mesh>
   );
 }
