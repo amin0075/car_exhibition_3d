@@ -2,7 +2,6 @@
 
 import { useFrame } from "@react-three/fiber";
 import React from "react";
-import * as THREE from "three";
 
 import state, { IState } from "@src/store/state";
 

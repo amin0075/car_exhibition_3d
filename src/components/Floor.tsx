@@ -1,6 +1,7 @@
 "use client";
 
 import { Euler, Vector3, Color } from "@react-three/fiber";
+import * as THREE from "three";
 
 // use connon
 import { useBox } from "@react-three/cannon";

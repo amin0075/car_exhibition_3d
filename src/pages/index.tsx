@@ -1,7 +1,6 @@
 import React from "react";
 
 // components
-import ThreeJs from "@src/components/ThreeJs";
 import ThreeFiber from "@src/components/ThreeFiber";
 import ColorPicker from "@src/components/ColorPicker";
 import CameraButtons from "@src/components/CameraButtons";

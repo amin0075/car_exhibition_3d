@@ -2,17 +2,17 @@
 
 import React from "react";
 import state from "@src/store/state";
-import { Vector3 } from "three";
+import * as THREE from "three";
 
 interface ISets {
   1: {
-    cameraPos: Vector3;
-    target: Vector3;
+    cameraPos: THREE.Vector3;
+    target: THREE.Vector3;
     name: string;
   };
   2: {
-    cameraPos: Vector3;
-    target: Vector3;
+    cameraPos: THREE.Vector3;
+    target: THREE.Vector3;
     name: string;
   };
 }

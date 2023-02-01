@@ -1,5 +1,8 @@
+"use client";
+
 import React from "react";
 import Bulb from "./Bulb";
+import * as THREE from "three";
 
 const Lights = () => {
   return (

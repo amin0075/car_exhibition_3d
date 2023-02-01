@@ -1,8 +1,5 @@
-"use client";
-
 import React, { Suspense } from "react";
 import { Canvas } from "@react-three/fiber";
-import * as THREE from "three";
 
 // use connon
 import { Physics } from "@react-three/cannon";

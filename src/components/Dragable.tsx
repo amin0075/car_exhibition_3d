@@ -1,3 +1,5 @@
+"use client";
+
 import { DragControls } from "three/examples/jsm/controls/DragControls";
 
 import React, { ReactNode, useRef, useEffect, useState } from "react";

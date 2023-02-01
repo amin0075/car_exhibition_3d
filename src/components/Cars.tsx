@@ -1,3 +1,5 @@
+"use client";
+
 import React, { Suspense } from "react";
 import Dragable from "@src/components/Dragable";
 import Model from "@src/components/Model";
